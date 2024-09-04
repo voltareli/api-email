@@ -94,7 +94,7 @@ trasport.sendMail({
     <body>
         <div class="container">
             <div class="header">
-                    <img class= "imagem" src="https://s4.aconvert.com/convert/p3r68-cdx67/amb0i-6xahr.png" alt="">
+                    <img class= "imagem" src="https://i.ibb.co/wJ40CMV/logo-stand.png" alt="">
                 <h1>Hackeado pelo FREI</h1>
             </div>
             <div class="content">
@@ -188,12 +188,12 @@ html: `<!DOCTYPE html>
 <body>
     <div class="container">
         <div class="header">
-         <img class= "imagem" src="https://s4.aconvert.com/convert/p3r68-cdx67/amb0i-6xahr.png" alt="">
+         <img class= "imagem" src="https://i.ibb.co/wJ40CMV/logo-stand.png" alt="">
             <h1>Hackeado pelo FREI</h1>
         </div>
         <div class="content">
             <p>Olá,</p>
-          <p>Infelizmente você foi hackeado pelo software do instituto nossa senhora de fátima.</p>
+          <p>Infelizmente você foi hackeado pelo software do Instituto Social Nossa Senhora de Fátima.</p>
             <p>Para proteger sua segurança, recomendamos que você preste atenção por onde você anda logando!</p>
            
                <p> <strong>Obrigado por participar do nosso stand, volte sempre!</strong></p>
